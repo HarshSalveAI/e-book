@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "364386296250",
+    "project_id": "testebook-bd7bc",
+    "storage_bucket": "testebook-bd7bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364386296250:android:a722cf5f211d9dec1bbd83",
+        "android_client_info": {
+          "package_name": "com.example.e_book"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "364386296250-pneq68sg3ep0570rgf7mvemcpbmuekq8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.e_book",
+            "certificate_hash": "a3282bac798e9700eb632a55ee5f0196eaed519b"
+          }
+        },
+        {
+          "client_id": "364386296250-8sc1rmcm74i1f04pmfma8rvf6eok8r5m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3TqAYr0xcwEvwXM7MFz9SVDJzAnB80JA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "364386296250-8sc1rmcm74i1f04pmfma8rvf6eok8r5m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
